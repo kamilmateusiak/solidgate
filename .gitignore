@@ -1,0 +1,15 @@
+.ftpconfig
+.htaccess
+wp-config.php
+prepros.cfg
+.svn
+
+wp-content/themes/solidsteel/dist
+wp-content/themes/solidsteel/node_modules
+wp-content/uploads
+
+wp-content/themes/solidsteel/js
+wp-content/themes/solidsteel/layouts
+wp-content/themes/solidsteel/sass
+wp-content/themes/solidsteel/template-parts
+wp-content/themes/solidsteel/vendors

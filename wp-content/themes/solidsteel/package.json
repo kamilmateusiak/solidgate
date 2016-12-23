@@ -1,0 +1,31 @@
+{
+  "name": "lm_local",
+  "version": "1.0.0",
+  "description": "lm_local test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lm",
+  "license": "",
+  "devDependencies": {
+    "browser-sync": "^2.17.3",
+    "es6-promise": "^4.0.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-jshint": "^2.0.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pngquant": "^1.0.10",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.3"
+  },
+  "dependencies": {
+    "gulp-uglifycss": "^1.0.6",
+    "sprity": "^1.0.8"
+  }
+}
